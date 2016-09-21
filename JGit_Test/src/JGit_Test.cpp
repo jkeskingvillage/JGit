@@ -12,5 +12,6 @@ using namespace std;
 int main() {
 	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
 	cout << "JGit_Test" << std::endl;
+	cout << "One More!" << std::endl;
 	return 0;
 }
